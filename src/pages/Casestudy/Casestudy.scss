@@ -1,0 +1,33 @@
+.casestudies{
+    display: flex;
+    flex-wrap: wrap;
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.usestatecard{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+@media ( max-width: 680px) {
+    
+    .usestatecard {
+        margin-left: -14px;
+    }
+}
+
+@media (max-width : 860px) {
+
+    
+    .blendedslider {
+        padding-top: 11%;
+    }
+
+    .usestatecard {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+}

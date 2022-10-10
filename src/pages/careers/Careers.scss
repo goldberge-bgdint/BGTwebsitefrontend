@@ -1,0 +1,76 @@
+#careerbgdsection{
+  width: 66% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.upperbody{
+    background-image: url("../../../public/images/world-map-on-a-light-background-1.jpg");
+    background-attachment: fixed;
+}
+
+#careerbgdsection h2{
+   text-align: center !important;
+   margin-bottom: 5%;
+}
+#careersimageright{
+    padding-left: 4%;
+}
+  
+.careersfullbody p {
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    line-height: 135% !important;
+}
+
+#Jobsearchfilter{
+    box-shadow: none !important;
+}
+.jobfilterdropdown{
+    color: #6b6b6be9 !important;
+    box-shadow: none !important;
+}
+
+.careersjobcards{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.careersjobcard{
+    margin-top: 3%;
+    padding-left: 19px;
+    padding-top: 16px;
+    width: 29.2%;
+    height: 162px;
+    overflow: auto;
+    margin-left: 3%;
+}
+.jobaddress,.jobstatus,.jobdepartment{
+  color: #4d4d4de9;
+}
+.emplpyeecards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.emplpyeecard{
+    width: 25%;
+    margin-top: 3%;
+}
+
+#endsectioncareers{
+    min-height: 0 !important;
+}
+
+#employeecardimage{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}

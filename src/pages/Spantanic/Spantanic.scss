@@ -1,0 +1,64 @@
+.spantanicbanner{
+    background: url("../../../public/images/mountains-scaled.jpg");
+    background-position: -24px -65px;
+    padding-top: 5%;
+    height: 494px !important;
+    text-align: center;
+    font-size: 151px;
+}
+
+.spantacniclower{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bluelinktag{
+    color: var(--primary);
+}
+.bluelinktaga, .bluelinktaga:hover{
+    color: var(--primary);
+}
+
+#timelinediv{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-family: 'Raleway', sans-serif !important;
+}
+.videosectionspantanic{
+    height: 600px;
+    background-position-y: 15px !important;
+    background: url("../../../public/images/spantik_new.png");
+    background-attachment: fixed;
+    padding-top: 15%;
+}
+.videoclickiconspantanic{
+    margin-left: 48.2%;
+}
+
+@media (max-width : 680px) {
+       
+.spantanicbanner {
+    padding-top: 33%;  
+}
+
+.videosectionspantanic {
+    padding-top: 70%;
+}
+
+}
+
+
+@media (max-width:860px) and ( min-width:680px ) {
+
+    .videosectionspantanic {
+        padding-top: 33%;
+    }
+
+    .spantanicbanner {
+        padding-top: 20%;
+    }
+    
+}

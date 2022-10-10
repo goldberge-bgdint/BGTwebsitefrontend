@@ -1,0 +1,133 @@
+.abouttextsection{
+    text-align: center;
+    height: 268px;
+    margin-top: 8%;
+}
+.aboutheading h2{
+    color: var(--primary);
+}
+.aboutheading p{
+    text-align: justify;
+     text-justify: inter-word;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textlink{
+    font-weight: 900;
+    text-decoration: none;
+    color: var(--secondary);
+    transition-duration: 0.3s;
+}
+.textlink:hover{
+    font-weight: 900;
+    text-decoration: none;
+    color: var(--primary);
+}
+.serviceheadingimage{
+    height: 676px;
+    margin-top: 4.00%;
+}
+
+.srevicecardimage{
+    margin-left: 7%;
+    height: 339px;
+    transition-duration: 0.5s;
+}
+.servicesservicecards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 78%;
+    margin-left: 15%;
+    margin-top: 6%;
+}
+.servicecard{
+    width: 90%;
+    overflow: hidden;
+}
+.cardimage{
+    width: 95%;
+    height: 60%;
+    overflow: hidden;
+}
+
+.innercontentcard{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.innercontentcard h5{
+    color: var(--primary);
+    font-weight: 900;
+}
+
+.innercontentcard a{
+    text-decoration: none;
+}
+
+.cloudsection{
+    width: 56%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.cloudsection h3,h6{
+    color: var(--primary);
+    text-align: center;
+}
+
+.videosection{
+    height: 500px;
+    background-position-y: 26px !important;
+    background: url("../../../public/backgrounds/videobackground.PNG");
+    background-attachment: fixed;
+    padding-top: 13%;
+}
+.videoclickicon{
+    margin-left: 48.2%;
+}
+.contact h4{
+    font-weight: 900;
+    color: var(--primary);
+}
+
+.contact{
+width: 100%;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 6%;
+background: url("../../../public/backgrounds/contactbg.jpg");
+height: 800px;
+background-size: cover;
+// background-attachment: fixed;
+}
+.contactupper{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lowercontact{
+    text-align: left;
+    height: 72%;
+}
+.lowercontact h5{
+    font-weight: 900;
+}
+
+.forminputs{
+    border: none;
+    border-bottom: 0.3px solid #00000030;
+    border-radius: 0;
+    background-color: var(--bglight);
+    box-shadow: none !important;
+}
+.lowercontact{
+    width: 60%;
+    margin-left: 25%;
+}
+.sendmessage{
+    margin-left: 72%;
+}

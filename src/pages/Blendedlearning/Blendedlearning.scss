@@ -1,0 +1,66 @@
+.blendedslider{
+    background: url("../../../public/backgrounds/blendedsliderbackground.jpg");
+    height: 546px;
+    background-attachment: fixed;
+    background-position-y: 61px;
+    padding-top: 8%;
+}
+
+.blendedsliderlink a,Link {
+    text-decoration: none;
+    transition-duration: 0.3s;
+}
+.blendedsliderlink a:hover,Link:hover{
+  color: var(--primary);
+}
+.learningstrategy{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.learningstrategy h2{
+    color: var(--primary);
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.n2section h5{
+    color: var(--primary);
+    font-weight: 100;
+    text-align: center;
+}
+.subjectmatter{
+    width: 70%;
+    line-height: 160%;
+}
+.contentheading{
+
+    text-align: left;
+}
+.blendedimg{
+    height: 250px;
+    padding-left: 22%;
+}
+.customlearning{
+    text-align: center;
+    color: var(--primary);
+}
+.linespace{
+    line-height: 196%;
+}
+.Differentiation li{
+    margin-top: 3%;
+}
+.lowerimagesheading{
+    font-size: 17px;
+    text-align: center;
+    color: #4195f7;
+}
+.lowerimagesimage{
+    height: 108px;
+    margin-left: 15.1%;
+}
+.blendedtextlink{
+    color: var(--primary);
+    text-decoration: none;
+}

@@ -1,0 +1,51 @@
+.homepeageserviceheading{
+    font-weight: 900;
+    font-size: 42px;
+    color: var(--primary);
+}
+.servicescard{
+    width: 33%;
+}
+.servicescard:hover .servicesicon{
+    font-size: 22px;
+}
+.servicesicon{
+    font-size: 20px;
+    margin: 0;
+    color: var(--primary);
+    transition-duration: 0.3s;
+}
+
+.servicecards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 97% !important;
+    margin-left: 7% !important;
+}
+
+.homepageservice{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1597px;
+    padding-top: 3%;
+}
+.servicesheading{
+    font-weight: 900;
+    margin-top: 5px !important;
+}
+
+
+.servicesendheading{
+    font-weight: 200;
+    font-size: 24px;
+    color: var(--primary);
+}
+.serviceendtext{
+    color: var(--secondary);
+}
+.customerservice{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}

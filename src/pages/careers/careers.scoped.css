@@ -1,0 +1,332 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 2231px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 2166px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.5rem;
+  margin: 35px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 1250px 687px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 19px 1px 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 19px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 37px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 6px 11px 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 57px 11px 0 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: -2044px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 655px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 3px auto 0 0;
+}
+
+.u-section-1 .u-text-9 {
+  margin: 20px 1px -1px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 655px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 452px;
+  margin-top: 3px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-wrap-2 {
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 651px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 0 26px;
+}
+
+.u-section-1 .u-text-10 {
+  width: 391px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-11 {
+  margin: 19px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 651px;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-12 {
+  width: 325px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-13 {
+  margin: 19px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3035px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 487px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 540px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 373px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 537px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 537px;
+  }
+}
+
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2748px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 267px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 414px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 286px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-10 {
+    width: 360px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-12 {
+    width: 300px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3301px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 87px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 621px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 429px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2910px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 391px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 270px;
+  }
+
+  .u-section-1 .u-text-10 {
+    width: 340px;
+  }
+}
+
+@media (max-width:680px) {
+
+  .blendedslider {
+    padding-top: 24%;
+  }
+
+  #endsectioncareers {
+    margin-top: 13%;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    margin-top: 49%;
+    padding: 30px 0;
+  }
+
+  .emplpyeecards {
+    flex-direction: column;  
+  }
+
+  .emplpyeecard {
+    width: 100%;
+    margin-top: 11%;
+  }
+
+  .careerfilters{
+    margin-top: 249% !important;
+  }
+
+  .careersjobcard {
+    width: 92.2%;
+    margin-top: 14%;
+  }
+
+  .careersjobcards {
+    flex-direction: column;
+  }
+
+}
+
+@media (max-width:860px) and (min-width:680px) {
+
+  .blendedslider {
+    padding-top: 11%;
+  } 
+
+  #careerbgdsection {
+    width: 90% !important;
+  }
+
+  .u-section-1 .u-layout-wrap-2 {
+    margin-bottom: 315px;
+  }
+
+  .careersjobcard {
+    box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 24%) 0px 1px 2px;
+    padding-left: 9px;
+    padding-top: 9px;
+    width: 29.2%;
+    height: 172px;
+    overflow: auto;
+    margin-left: 3%;
+    margin-top: 4%;
+  }
+
+  #employeecardimage {
+    height: 220px !important;
+  }
+  
+}

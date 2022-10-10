@@ -1,0 +1,40 @@
+.sls{
+    padding-top: 150px;
+    height: 701px;
+    background: url("../../../../public//backgrounds//cold-mountains-background.jpg");
+    padding-top: 115px;
+    background-position-y: -136px;
+    background-position-x: 1910px;
+}
+
+.sliderlefttext h2{
+    font-weight: 900;
+    margin: 0px;
+    font-size: 46px;
+}
+
+.slidercontent{
+    display: flex;
+    flex-direction: row;
+}
+
+.sliderighttext{
+    margin-left: 1%;
+    height: 163px;
+    padding-left: 1.5%;
+    border-left: 0.7px solid #00000085;
+}
+
+.sliderighttext p{
+    font-size: 24px;
+    margin: 0;
+}
+
+.slidercontent{
+    width: auto;
+    margin-left: 28%;
+    margin-top: 16%;
+}
+.slidercoloredtext{
+    color: var(--primary);
+}
