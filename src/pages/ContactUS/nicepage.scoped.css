@@ -6758,8 +6758,8 @@ section.u-image:not(.u-hover-box),
 }
 .u-layout-row > .u-size-20 {
   flex: 0 0 33.33333333%;
-  max-width: 33.33333333%;
-  min-width: 33.33333333%;
+  max-width: 24.333333% !important;
+  min-width: 24.333333% !important;
 }
 .u-layout-col > .u-size-20 {
   flex: 20 0 auto;

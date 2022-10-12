@@ -9,6 +9,7 @@ import "./nicepage.scoped.css"
 //video
 import abvideo from "../../images/BusinessGO.mp4"
 
+
 // Importing AOS animations
 import AOS from 'aos';
 import "aos/dist/aos.css";
@@ -38,8 +39,8 @@ function Aboutcloud() {
      <section className="u-border-1 u-border-grey-5 u-clearfix u-section-1" id="sec-858c">
   <div className="u-clearfix u-sheet u-sheet-1">
     <h4 data-aos="fade-up" className="u-text u-text-custom-color-1 u-text-default u-text-1"> Adobe Experience Cloud</h4>
-    <p data-aos="fade-up" className="u-text u-text-2"> Adobe Experience Cloud is a collection of applications and&nbsp;<a href="https://bgdint.com/services/" className="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1 p-0">services</a>&nbsp;built on the first platform designed explicitly for unmatched customer experiences, giving you the most comprehensive tools for insights, content, engagement, and more. We offer Consulting &amp; Learning Services in Pakistan, Central Asia, and the Middle East.<br />
-      <br />At <a href="https://bgdint.com/" className="p-0 u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2">Business GO Digital</a> we are experts in understanding your business needs. We specialize in helping organizations using Adobe Experience Cloud compete in their markets by delivering an excellent customer experience that drives improved marketing results and shareholder value.<br />
+    <p data-aos="fade-up" className="u-text u-text-2"> Adobe Experience Cloud is a collection of applications and <b className="boldtextlink" > services </b>&nbsp;built on the first platform designed explicitly for unmatched customer experiences, giving you the most comprehensive tools for insights, content, engagement, and more. We offer Consulting &amp; Learning Services in Pakistan, Central Asia, and the Middle East.<br />
+      <br /> <b className="boldtextlink"  >Business GO Digital</b>we are experts in understanding your business needs. We specialize in helping organizations using Adobe Experience Cloud compete in their markets by delivering an excellent customer experience that drives improved marketing results and shareholder value.<br />
       <br />The only regional company in the market that has a team of adobe certified consultants, adobe certified global trainer, and regional offices to offer support services locally. Our corporate pre-sales managers are just a click away.
     </p>
     <div className="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
@@ -104,9 +105,9 @@ function Aboutcloud() {
       </div>
     </div>
     
-    <div className="u-container-style u-custom-color-2 u-expanded-width u-group u-group-1">
+    <div data-aos="fade-up" className="u-container-style u-custom-color-2 u-expanded-width u-group u-group-1">
       <div className="u-container-layout u-valign-middle u-container-layout-8">
-        <h6 data-aos="fade-up" className="u-text u-text-custom-color-1 u-text-12"> Explore Learning Opportunities</h6>
+        <h6  className="u-text u-text-custom-color-1 u-text-12"> Explore Learning Opportunities</h6>
       </div>
     </div>
 

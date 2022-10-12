@@ -58,6 +58,103 @@ function Remoteitoffice() {
       </div>
     </div>
     <h3 data-aos="fade-up" className="u-text u-text-custom-color-1 u-text-default u-text-7"> You may choose your required package from below:</h3>
+
+
+
+    <div className="priceplan" >
+
+  <div class="snip1214">
+
+
+  <div data-aos="fade-up" class="plan">
+    <h3 class="plan-title">
+    Website Support
+    </h3>
+    <div class="plan-cost"><span class="plan-price">$160</span><span class="plan-type">/ Per Month </span></div>
+    <ul class="plan-features">
+      <li><i class="ion-checkmark"> </i> Web Updates </li>
+      <li><i class="ion-checkmark"> </i> Web Maintenance </li>
+      <li><i class="ion-checkmark"> </i> Performance Tuning </li>
+      <li><i class="ion-checkmark"> </i> Web Analysis </li>
+      <li><i class="ion-checkmark"> </i> Web Speed Analysis </li>
+      <li><i class="ion-checkmark"> </i> Data Backup </li>
+      <li><i class="ion-checkmark"> </i> 45 Hours a month </li>
+      <li><i class="ion-checkmark"> </i> Persons : 1 </li>
+    </ul>
+    <div class="plan-select"><a href="">Buy Now</a></div>
+  </div>
+
+
+  <div data-aos="fade-up" class="plan">
+    <h3 class="plan-title">
+    Digital/Social Media Management
+    </h3>
+    <div class="plan-cost"><span class="plan-price"> $560 </span><span class="plan-type">/ Per Month </span></div>
+    <ul class="plan-features">
+      <li><i class="ion-checkmark"> </i> Website Support + </li>
+      <li><i class="ion-checkmark"> </i> Facebook, LinkedIn, Additional 100$ a month </li>
+      <li><i class="ion-checkmark"> </i> Digital Media Managemnet </li>
+      <li><i class="ion-checkmark"> </i> Google Analytics </li>
+      <li><i class="ion-checkmark"> </i> Youtube Channel Management</li>
+      <li><i class="ion-checkmark"> </i> SEO Audit Reports</li>
+      <li><i class="ion-checkmark"> </i> 90 Hours a month </li>
+      <li><i class="ion-checkmark"> </i> Persons : 2 </li>
+    </ul>
+    <div class="plan-select"><a href="">Buy Now</a></div>
+  </div>
+
+
+  <div data-aos="fade-up" class="plan featured">
+    <h3 class="plan-title">
+    Ecommerce Unit
+    </h3>
+    <div class="plan-cost"><span class="plan-price">$2,990</span><span class="plan-type">/ Per Month </span></div>
+    <ul class="plan-features">
+      <li><i class="ion-checkmark"> </i>Digital/Social Media Management +</li>
+      <li><i class="ion-checkmark"> </i>Inventory Management</li>
+      <li><i class="ion-checkmark"> </i>Order Tracking & Management</li>
+      <li><i class="ion-checkmark"> </i>Sales Management</li>
+      <li><i class="ion-checkmark"> </i>Invoicing & Report</li>
+      <li><i class="ion-checkmark"> </i>Return & Damages</li>
+      <li><i class="ion-checkmark"> </i>Customer Services</li>
+      <li><i class="ion-checkmark"> </i>Live Chat Support , Complaints Hadling</li>
+      <li><i class="ion-checkmark"> </i>Reporting</li>
+      <li><i class="ion-checkmark"> </i>Startup Installation Cost: 2,500$</li>
+      <li><i class="ion-checkmark"> </i>450 Hours a month</li>
+      <li><i class="ion-checkmark"> </i>Persons : 4</li>
+    </ul>
+    <div class="plan-select"><a href="">Buy Now</a></div>
+  </div>
+
+
+  <div data-aos="fade-up" class="plan">
+    <h3 class="plan-title">
+    IT Support
+    </h3>
+    <div class="plan-cost"><span class="plan-price">$5,000</span><span class="plan-type">/ Per Month </span></div>
+    <ul class="plan-features">
+      <li><i class="ion-checkmark"> </i>Ecommerce Unit +</li>
+      <li><i class="ion-checkmark"> </i>IT Consultancy & Implementation</li>
+      <li><i class="ion-checkmark"> </i>Server Handling & Updates</li>
+      <li><i class="ion-checkmark"> </i>Emails Handling</li>
+      <li><i class="ion-checkmark"> </i>Firewall & Security</li>
+      <li><i class="ion-checkmark"> </i>Databases & Backup</li>
+      <li><i class="ion-checkmark"> </i>Redudancy</li>
+      <li><i class="ion-checkmark"> </i>Disaster & Recovery</li>
+      <li><i class="ion-checkmark"> </i>Startup Installation Cost: 5,000$</li>
+      <li><i class="ion-checkmark"> </i>630 Hours a month</li>
+      <li><i class="ion-checkmark"> </i>Persons : 5</li>
+    </ul>
+    <div class="plan-select"><a href="">Buy Now</a></div>
+  </div>
+
+
+  
+</div>
+
+</div>
+
+
   </div>
 </section>
 

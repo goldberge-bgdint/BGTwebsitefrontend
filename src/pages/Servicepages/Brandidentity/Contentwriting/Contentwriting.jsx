@@ -21,9 +21,9 @@ function Contentwriting() {
     <div>
 
         <div className='blendedslider text-center '>
-                <h5 data-aos="fade-up" > CONTACT US </h5>
+                <h5 data-aos="fade-up" > CONTENT CREATING </h5>
                 <div className="blendedsliderdivider"></div>
-                <span  data-aos="fade-up" className='blendedsliderlink' > You are here: <a href="/home">  <Link to="/home" >home</Link> </a> {`>>`} CONTACT US </span>
+                <span  data-aos="fade-up" className='blendedsliderlink' > You are here: <a href="/home">  <Link to="/home" >home</Link> </a> {`>>`} CONTENT CREATING </span>
         </div>  
 
         <div className="contentwritinglowerdiv u-body u-xl-mode">
@@ -31,7 +31,7 @@ function Contentwriting() {
   <div className="u-clearfix u-sheet u-sheet-1">
     <div className="u-container-style u-expanded-width u-group u-group-1">
       <div className="u-container-layout u-valign-top u-container-layout-1">
-        <h3 data-aos="fade-up" className="u-text u-text-default u-text-1"> Content Writing</h3>
+        <h3 data-aos="fade-up" className="u-text u-text-default u-text-1" style={{color:"var(--primary)"}} > Content Writing</h3>
         <p data-aos="fade-up" className="u-text u-text-default u-text-2"> We understand how to create content that attracts readers’ attention and get customers to take action. The importance of content is much more than ever. All brands want to get found, get read, and grow online within no period. Every company aims at empowering digital growth with high-quality content and to be at the top during search engine optimizations and indexing. We make sure our content fascinating to read, it also meets and exceeds search engine standards of various search engines like Google, Yahoo, etc.</p>
       </div>
     </div>

@@ -42,7 +42,7 @@
 }
 
 .u-section-1 .u-text-3 {
-  margin: 0 auto 0 0;
+  margin: 0 auto 0;
 }
 
 .u-section-1 .u-image-2 {
@@ -64,7 +64,7 @@
 }
 
 .u-section-1 .u-text-5 {
-  margin: 0 auto 0 0;
+  margin: 0 auto 0;
 }
 
 .u-section-1 .u-image-3 {
@@ -80,8 +80,9 @@
 
 .u-section-1 .u-text-7 {
   font-size: 1.25rem;
-  margin: 87px auto 0 0;
+  margin: 87px auto 0;
 }
+
 
 .u-section-1 .u-layout-wrap-2 {
   margin-top: 39px;
@@ -102,9 +103,13 @@
   margin: 0 auto;
 }
 
-.u-section-1 .u-text-8 {
-  font-size: 1.25rem;
-  margin: 11px 13px 0;
+.u-section-1 .u-text-8,.u-section-1 .u-text-9,.u-section-1 .u-text-10,.u-section-1 .u-text-11 {
+  font-size: 1.0rem !important;
+  margin: 11px 7px 0;
+  text-align: center;
+}
+.u-section-1 .u-text-8{
+  margin: 11px 26px 0;
 }
 
 .u-section-1 .u-layout-cell-4 {

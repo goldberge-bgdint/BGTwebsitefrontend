@@ -78,12 +78,16 @@
     text-align: center;
 }
 
+.sendmessage {
+    margin-left: 62% !important;
+}
+
 .videosection{
-    height: 500px;
-    background-position-y: 26px !important;
+    background-position-y: -57px !important;
     background: url("../../../public/backgrounds/videobackground.PNG");
-    background-attachment: fixed;
-    padding-top: 13%;
+    background-attachment: fixed !important;
+    height: 670px;
+    padding-top: 16%;
 }
 .videoclickicon{
     margin-left: 48.2%;

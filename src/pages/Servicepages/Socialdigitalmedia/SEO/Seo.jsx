@@ -96,7 +96,7 @@ function Seo() {
               <div className="u-container-style u-layout-cell u-size-60 u-layout-cell-5">
                 <div className="u-container-layout u-container-layout-6">
                   <img className="u-expanded-width u-image u-image-default u-preserve-proportions u-image-5" src="images/pexels-salvatore-ventura-883757.jpg" alt data-image-width={960} data-image-height={960} />
-                  <p className="u-text u-text-11"> The strategy we use<br />
+                  <p className="u-text u-text-11"> The Strategy we Use<br />
                     <br />We will develop an efficient link building strategy to generate more quality links to your website from authoritative popular related websites, blogs, and business directories to rank higher in targeted search results. We follow search engines frequently and put the information gathered for on-page and off-page SEO services to make your pages jump to the first page in no time.
                   </p>
                 </div>
@@ -122,7 +122,7 @@ function Seo() {
 
   {/* <h5 className='text-center my-4 ' style={{color:"var(--primary)"}} > Click to find our monthly SEO plans that suits your business </h5> */}
 
-  <div data-aos="fade-up" className={priceplanheight}>
+  <div  className={priceplanheight}>
 
 
 
@@ -355,7 +355,7 @@ function Seo() {
 </div>
 
 
-<div data-aos="fade-up" className="packagesComparison text-center d-block">
+<div  className="packagesComparison text-center d-block">
 
   <h6>Compare Plan Suitable for Your Business!</h6>
 

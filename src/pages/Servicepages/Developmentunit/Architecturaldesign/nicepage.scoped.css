@@ -6798,8 +6798,8 @@ section.u-image:not(.u-hover-box),
 }
 .u-layout-row > .u-size-15 {
   flex: 0 0 25%;
-  max-width: 25%;
-  min-width: 25%;
+  max-width: 38%;
+  min-width: 33%;
 }
 .u-layout-col > .u-size-15 {
   flex: 15 0 auto;

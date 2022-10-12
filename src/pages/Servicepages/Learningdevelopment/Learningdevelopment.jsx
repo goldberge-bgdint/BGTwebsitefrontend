@@ -3,6 +3,8 @@ import "./Learningdevelopment.scoped.css"
 import "./nicepage.scoped.css"
 import "./Learningdevelopment.scss"
 
+import Redbutton from "../../../components/button/redbutton/redbutton";
+
 // Importing AOS animations
 import AOS from 'aos';
 import "aos/dist/aos.css";
@@ -19,9 +21,6 @@ function Learningdevelopment() {
     <div className='learningdevelopmentbody' >
 
            <div className="learningdevelopmentupper">
-
-                <h2>Business GO Digital Academy</h2>
-
            </div>
 
            <div className="learningdevelpmentlower u-body u-xl-mode">
@@ -321,7 +320,11 @@ function Learningdevelopment() {
         </div>
       </div>
     </div>
+
+      <div className="endingbutton"> <Redbutton buttontext="Contact For more Details" /> </div>
+    
   </div>
+
 </section>
 
 

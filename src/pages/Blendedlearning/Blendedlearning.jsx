@@ -228,42 +228,42 @@ image:lowerimage6
           <div data-aos="fade-right" className="u-align-center u-container-style u-layout-cell u-size-10 u-layout-cell-14">
             <div className="u-container-layout u-container-layout-15">
               <p className="u-text u-text-custom-color-1 u-text-17"> Be the Pioneer, <br /> Digital School</p>
-              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/1-1.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
+              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/competitive-256x256.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
             </div>
           </div>
           
           <div data-aos="fade-up" className="u-align-center u-container-style u-layout-cell u-size-10 u-layout-cell-14">
             <div className="u-container-layout u-container-layout-15">
               <p className="u-text u-text-custom-color-1 u-text-17"> Re-gain,<br />Bargaining Power</p>
-              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/2-2.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
+              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/protest-256x256.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
             </div>
           </div>
 
           <div data-aos="fade-up" className="u-align-center u-container-style u-layout-cell u-size-10 u-layout-cell-14">
             <div className="u-container-layout u-container-layout-15">
               <p className="u-text u-text-custom-color-1 u-text-17"> Invest Today,<br />ROI 4 Years</p>
-              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/3-2.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
+              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/sales-funnel-256x256.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
             </div>
           </div>
 
           <div data-aos="fade-up" className="u-align-center u-container-style u-layout-cell u-size-10 u-layout-cell-14">
             <div className="u-container-layout u-container-layout-15">
               <p className="u-text u-text-custom-color-1 u-text-17"> Controlled,<br />Fixed Cost</p>
-              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/4-2.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
+              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/calculator-256x256.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
+            </div>
+          </div>
+
+          <div data-aos="fade-up" className="u-align-center u-container-style u-layout-cell u-size-10 u-layout-cell-14">
+            <div className="u-container-layout u-container-layout-15">
+              <p className="u-text u-text-custom-color-1 u-text-17"> Accessibility,<br />Global Students</p>
+              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/international-256x256.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
             </div>
           </div>
 
           <div data-aos="fade-left" className="u-align-center u-container-style u-layout-cell u-size-10 u-layout-cell-14">
             <div className="u-container-layout u-container-layout-15">
-              <p className="u-text u-text-custom-color-1 u-text-17"> Accessibility,<br />Global Students</p>
-              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/5-2.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
-            </div>
-          </div>
-
-          <div className="u-align-center u-container-style u-layout-cell u-size-10 u-layout-cell-14">
-            <div className="u-container-layout u-container-layout-15">
               <p className="u-text u-text-custom-color-1 u-text-17"> Multiply,<br />Future Business</p>
-              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/6-2.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
+              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/students-256x256.png" id='uiimage2' alt data-image-width={183} data-image-height={193} />
             </div>
           </div> 
 

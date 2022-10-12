@@ -78,7 +78,7 @@ function Websitedevelopment() {
           </div>
           <div data-aos="fade-left" className="u-container-style u-layout-cell u-size-45 u-layout-cell-2">
             <div className="u-container-layout u-container-layout-4">
-              <h5 className="u-text u-text-custom-color-1 u-text-3"> Your Digital Partner</h5>
+              <h5 className="u-text u-text-custom-color-1 u-text-3"> Your Digital identity</h5>
               <p className="u-text u-text-4"> BGD International is one of the leading web development companies in the Middle East and Asia. We offer considerable website design services along with web development and digital/social marketing solutions. We are one of the best choices when you would like to transform or re-brand your business.</p>
             </div>
           </div>

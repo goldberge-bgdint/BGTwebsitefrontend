@@ -32,7 +32,6 @@ function Packingdesign() {
     <div className="u-container-style u-expanded-width u-group u-group-1">
       <div className="u-container-layout u-container-layout-1">
         <p data-aos="fade-up"  className="u-text u-text-1"> Identity is the visible elements of a brand but can be associated with Logo or Wordmark, key brand colors, typographic treatment, images and content, graphical elements, and visual identity on social media. A product could be tangible or intangible; our designers use strategy to create the visual elements of your brand that are always unique to your brand. It can influence the perception of the product by creating an appropriate, consistent look and feel.</p>
-        <h4  data-aos="fade-up" className="u-text u-text-custom-color-1 u-text-2"> Package Identity is Important</h4>
         <p data-aos="fade-up" className="u-text u-text-3"> A start-up business or growing entity should use and update an existing brand identity, occasionally. It is worth investing in. You may create brand value by creating a great identity for your brand. Our method is quite logical: we do analyze the products, competitors and the market, set the objectives, formulate the strategies, identify the customers, and determine the brand personality. It is the strategic planning process, and every element needs to contribute to the overall business goals. That is the promise we make.</p>
       </div>
     </div>

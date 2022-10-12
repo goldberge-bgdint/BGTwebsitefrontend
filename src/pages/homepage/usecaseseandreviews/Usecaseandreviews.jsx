@@ -61,9 +61,7 @@ function Usecaseandreviews() {
                ) }
             </div>
 
-            <div data-aos="fade-up" >
-            <Testimonialslider/>
-            </div>
+  
 
             {/* <h2> <b> WHAT CUSTOMERS SAY ABOUT US </b></h2> */}
 

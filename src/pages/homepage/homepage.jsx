@@ -9,6 +9,9 @@ import Usecaseandreviews from './usecaseseandreviews/Usecaseandreviews.jsx'
 import "./homepage.scoped.css"
 import "./nicepage.scoped.css"
 
+//icons
+import { FaRenren } from "@react-icons/all-files/fa/FaRenren";
+
 // Importing AOS animations
 import AOS from 'aos';
 import "aos/dist/aos.css";
@@ -39,7 +42,7 @@ function Homepage() {
               <span style={{fontWeight: 700}} className="u-text-custom-color-1"> OUR BUSINESS</span>
               <br />
             </h3>
-            <p data-aos="fade-left" className="u-text u-text-2"> We create an atmosphere favorable to online business, cloud computing, marketing, advertising, and eCommerce in such a way that your brand can be different from its competition. We offer a variety of services that fulfill your need for business. We are the # 1 digital&nbsp;<a href="https://bgdint.com/brand-identity/" className="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">branding</a>&nbsp;agency in Pakistan, serving the global market for more than 4 years. We are the best cloud technology firm that offers consultancy, design, implementation, support and learning.
+            <p data-aos="fade-left" className="u-text u-text-2 text-center"> We create an atmosphere favorable to online business, cloud computing, marketing, advertising, and eCommerce in such a way that your brand can be different from its competition. We offer a variety of services that fulfill your need for business. We are the # 1 digital&nbsp; <b className="boldtextlink" >branding </b>&nbsp;agency in Pakistan, serving the global market for more than 4 years. We are the best cloud technology firm that offers consultancy, design, implementation, support and learning.
             </p>
           </div>
         </div>
@@ -66,9 +69,9 @@ function Homepage() {
               </span>
               <br />
             </h3>
-            <p data-aos="fade-right" className="u-text u-text-4"> Let’s discuss, What do you think – to&nbsp;<a href="https://bgdint.com/website-development/" className="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2">develop a website</a>, application, animation, or<a href="https://bgdint.com/social-media-management/" className="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3">
-                <br />social media plan
-              </a>. We do Resource Management – of designers and developers who are ready to deliver&nbsp;<a href="https://bgdint.com/digital-branding-strategy/" className="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-4">digital branding</a>&nbsp;projects. It’s Time to Transform the Business – running a business already and thinking of transformation on the internet or looking for digital identity. You may contact us in confidence. Once a Partner, Always a Partner –&nbsp;We create identity, communicate your message to the audience, develop your digital brand, market it to the right customers, and save the cost of operations by implementing cloud technology.
+            <p data-aos="fade-right" className="u-text u-text-4"> Let’s discuss, What do you think – to&nbsp; <b className="boldtextlink" > develop a website </b>, application, animation, or
+                <br /> <b className="boldtextlink" >social media plan</b>  <b className="boldtextlink" ></b>
+              . We do Resource Management – of designers and developers who are ready to deliver&nbsp; <b className="boldtextlink" >digital branding&nbsp; </b>projects. It’s Time to Transform the Business – running a business already and thinking of transformation on the internet or looking for digital identity. You may contact us in confidence. Once a Partner, Always a Partner –&nbsp;We create identity, communicate your message to the audience, develop your digital brand, market it to the right customers, and save the cost of operations by implementing cloud technology.
             </p>
           </div>
         </div>
@@ -94,7 +97,7 @@ function Homepage() {
           </div>
         </div>
         <div className="u-container-style u-layout-cell u-size-20 u-layout-cell-6">
-          <div  data-aos="fade-up"  className="u-container-layout u-container-layout-6"><span className="u-file-icon u-icon u-icon-3"><img src="images/1828640.png" alt /></span>
+          <div  data-aos="fade-up"  className="u-container-layout u-container-layout-6"><span className="u-file-icon u-icon u-icon-3"> <span className="homepage_icon" > <FaRenren/> </span> </span>
             <h6 data-aos="fade-up"   className="u-text u-text-custom-color-1 u-text-default u-text-10"> Development House</h6>
             <p  data-aos="fade-up"  className="u-text u-text-11"> We believe it’s not just a website or application but your digital brand identity. Creating your business website, a digital transformation, App is a must, Android or IOS, Real-time app, and 3D model &amp; 360 VR Tour whatever is necessary we propose to our client with confidence.</p>
           </div>
@@ -127,7 +130,6 @@ function Homepage() {
       </div>
     </div>
   </div>
-  <img data-aos="fade-up" className="u-image u-image-default u-image-2" src="images/All-Services-1-2048x7991.jpg" alt data-image-width={2048} data-image-height={799} />
   <h3 data-aos="fade-up" className="u-text u-text-custom-color-1 u-text-default u-text-18"> Customer Experience is Everything Today! Transform to Cloud Technology</h3>
   <p data-aos="fade-up" className="u-text u-text-19"> The cloud is everything: from traditional benefits to the value. It keeps growing and accelerating, the cloud is an exciting way to run a business since it brings a competitive advantage over others. Its benefits include cost reduction, efficiency, data security &amp;amp; recovery, Scalability, convenience, and control over sensitive data.</p>
   <a data-aos="fade-up" href="https://nicepage.com/website-design" id='explorebutton' className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-5">Explore Services</a>

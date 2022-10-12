@@ -1,5 +1,5 @@
  .u-section-1 {
-  min-height: 2913px;
+  min-height: 1818px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -10,6 +10,11 @@
 
 .u-section-1 .u-layout-cell-1 {
   min-height: 805px;
+}
+
+.homepage_icon{
+    font-size: 29px;
+    color: var(--primary);
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -40,9 +45,10 @@
 }
 
 .u-section-1 .u-image-1 {
-  height: 663px;
-  margin-top: 61px;
-  margin-bottom: 0;
+  height: 533px;
+  width: 482px !important;
+  margin-top: 131px;
+
 }
 
 .u-section-1 .u-layout-cell-3 {
@@ -254,7 +260,7 @@
 }
 
 .u-section-1 .u-text-18 {
-  margin: 81px auto 0 calc(((100% - 1140px) / 2) + 27px);
+  margin: 0px auto 0 calc(((100% - 1140px) / 2) + 27px);
 }
 
 .u-section-1 .u-text-19 {

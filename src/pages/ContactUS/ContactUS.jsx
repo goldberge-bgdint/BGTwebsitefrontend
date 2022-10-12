@@ -90,48 +90,8 @@ function ContactUS() {
 <section className="u-clearfix u-section-1" id="sec-6bf2">
   <div className="u-clearfix u-sheet u-sheet-1">
 
-    <div className="row ">
-
         <h3 data-aos="fade-down" className='text-center' style={{color:"var(--primary)"}} >GET IN TOUCH</h3>
-
-      <div className="col-md-4">
-
-        <div data-aos="fade-right" className="contactusleft">
-
-            <h5  style={{color:"var(--primary)"}} >Corporate Headquarters</h5>
-            <p>
-            <b>Business GO Digital</b> <br />
-            Prince Muhammad Bin Salman Street, Qurtubah, <br />
-            Riyadh 13248, Saudi Arabia <br />
-            Local: +966 501 955 328 <br />
-            me@bgdint.com <br />
-            </p>
-
-        </div>
-
-      </div>
-      <div data-aos="fade-left" className="col-md-8">
-
-      <div className="row">
-
-        <div className="col-md-6">
-          <div className="contactrightcard">
-            <h2><b>Partner with Business Go Digital?</b></h2>
-            <button className="contactrightbutton" > Click Here </button>
-          </div>
-        </div>
-        <div className="col-md-6">
-        <div className="contactrightcard">
-            <h2><b>Looking For Designers & Developers?</b></h2>
-            <button className="contactrightbutton" > Click Here </button>
-          </div>
-        </div>
-
-      </div>
-
-      </div>
-    </div>
-
+ 
     <p data-aos="fade-up" className="u-text u-text-custom-color-1 u-text-default u-text-5 mt-5 "> Just send us your questions or concerns by starting a new case and we will give you the help you need. </p>
 
 
@@ -199,7 +159,7 @@ function ContactUS() {
                        
                     </div>
                     <div className="col-md-6">
-                             <label for="" class="form-label">Your Email</label>
+                             <label for="" class="form-label">Your Email*</label>
                             <input type="email"
                             class="forminputs form-control mt-2 " name="" id="email" aria-describedby="helpId" placeholder=""/>
         
@@ -208,7 +168,7 @@ function ContactUS() {
         </div>
 
         <div className=" px-3">
-        <label for="" class="form-label mt-4 ">Your Message</label>
+        <label for="" class="form-label mt-4 ">Your Message*</label>
                     <textarea type="text"
                         class="forminputs form-control mt-2" style={{height: "27%"}}  name="" id="message" aria-describedby="helpId" placeholder=""/>
                     <div className="captcha mt-4">
@@ -238,24 +198,33 @@ function ContactUS() {
             <div className="u-container-layout u-container-layout-7">
               <h6 className="u-text u-text-custom-color-1 u-text-default u-text-8"> Corporate Headquarters</h6>
               <p className="u-text u-text-default u-text-9"> BGD International (Pvt) Limited</p>
-              <p className="u-text u-text-default u-text-10"> 62 Acre Way, HA6 1SX&nbsp; Northwood,<br />London,&nbsp;United Kingdom<br />Contact: +44 782 578 2778<br />uk@bgdint.com
+              <p className="u-text u-text-default u-text-10"> 62 Acre Way, HA6 1SX&nbsp; Northwood,<br />London,&nbsp;United Kingdom<br />Contact: +44 782 578 2778<br />
               </p>
             </div>
           </div>
           <div data-aos="fade-up" className="u-container-style u-layout-cell u-size-20 u-layout-cell-6">
             <div className="u-container-layout u-container-layout-8">
-              <h6 className="u-text u-text-custom-color-1 u-text-default u-text-11"> Pakistan</h6>
+              <h6 className="u-text u-text-custom-color-1 u-text-default u-text-11"> Canada</h6>
               <p className="u-text u-text-default u-text-12"><b>BGD International (Pvt.) Ltd.</b>
               </p>
-              <p className="u-text u-text-default u-text-13"> 112-D2, Wapda Town,<br />Lahore 54770, Pakistan<br />Contact: +92 423 518 4499<br />pak@bgdint.com
+              <p className="u-text u-text-default u-text-13"> James hill road<br />Regina S4W 0N1, Canada<br />Contact: +92 423 518 4499<br />
               </p>
             </div>
           </div>
           <div data-aos="fade-left" className="u-container-style u-layout-cell u-size-20 u-layout-cell-7">
             <div className="u-container-layout u-container-layout-9">
               <h6 className="u-text u-text-custom-color-1 u-text-default u-text-14"> Philippines</h6>
-              <p className="u-text u-text-default u-text-15"> Pencil Box</p>
-              <p className="u-text u-text-default u-text-16"> Manila, Philippines<br />Local: +966 11 230 3975<br />info@bgdint.com
+              <p className="u-text u-text-default u-text-15"> BGD International (Pvt.) Ltd.</p>
+              <p className="u-text u-text-default u-text-16"> Manila, Philippines<br />Contact: +966 11 230 3975<br />
+              </p>
+            </div>
+          </div>
+          <div data-aos="fade-left" className="u-container-style u-layout-cell u-size-20 u-layout-cell-7">
+            <div className="u-container-layout u-container-layout-9">
+              <h6 className="u-text u-text-custom-color-1 u-text-default u-text-14"> Saudi Arabia</h6>
+              <p className="u-text u-text-default u-text-15"> BGD International (Pvt.) Ltd.</p>
+              <p className="u-text u-text-default u-text-16"> Prince Muhammad Bin Salman Street, Qurtubah,
+Riyadh 13248,Riyadh<br />Contact: +966 501 955 328<br />
               </p>
             </div>
           </div>

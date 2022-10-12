@@ -1,8 +1,68 @@
+// Banner animations
+.pahari{
+    height: 579px;
+    position: relative;
+    bottom: 175px;
+    left: 147px;   
+}
+
+
+
+.masking{
+    background: linear-gradient(0deg, #fbfbfb, #fdfdfd00);
+    position: relative;
+    bottom: 1591px;
+    height: 319px;
+    width: 101%;
+    z-index: 400;
+}
+
+.cloud1{
+    position: relative;
+    bottom: 498px;
+    height: 424px;
+    right: 724px;
+    
+}
+
+.cloud12{
+    position: relative;
+    bottom: 819px;
+    height: 258px;
+    right: 331px;
+    
+}
+
+.cloud13{
+    position: relative;
+    bottom: 1022px;
+    height: 261px;
+    right: 6px; 
+}
+
+
+.cloud2{
+    position: relative;
+    bottom: 1385px;
+    height: 292px;
+    right: -646px;
+}
+
+.textanimation{
+    left: 223px;
+    position: absolute;
+    top: 193px;
+    height: 200px;
+}
+
+// 
+
 .sls{
     padding-top: 150px;
     height: 701px;
     background: url("../../../../public//backgrounds//cold-mountains-background.jpg");
     padding-top: 115px;
+    background-attachment: fixed;
     background-position-y: -136px;
     background-position-x: 1910px;
 }

@@ -57,8 +57,8 @@ function Creativecommunication() {
 
              <div data-aos="fade-left" class="u-container-style u-layout-cell u-size-18 u-layout-cell-3">
               <div class="u-container-layout u-valign-middle u-container-layout-3">
-                <h4 class="u-text u-text-custom-color-1 u-text-default u-text-3"> Creativity &amp; Branding</h4>
-                <p class="u-align-center u-text u-text-default u-text-4"> Brand Identity is a sensitive challenge to our team always. It’s not just a logo or graphics but to form the identity – the fact of being what products are and what’s a company. We are involved in a wide range of activities, including Logo Design, Corporate Identity, Digital Identity, Brand Identity, Person Identity, Copywriting, Advertising, Large Displays, Catalogues, Brochures, etc.</p>
+                <h4 class="u-text u-text-custom-color-1 u-text-default u-text-3"> Think-Create-Deliver</h4>
+                <p class="u-align-center u-text u-text-default u-text-4"> Everything starts with creativity & communication. From identity, we deliver exclusive product & packaging designs as a part of creative communication. It covers any modern type of promotional material. Whether you need to promote a brand digitally or traditionally you need communication that can-do wonders. We believe in customized communication through which you can achieve your set targets in relation to sales or branding.</p>
               </div>
             </div>
 
@@ -135,7 +135,7 @@ function Creativecommunication() {
       </div>
       <div data-aos="fade-left" className="u-container-style u-group u-palette-5-light-3 u-group-4">
         <div className="u-container-layout u-container-layout-11">
-          <h2 className="u-text u-text-default u-text-14"> Creative &amp; Passionate</h2>
+          <h2 className="u-text u-text-default u-text-14" style={{color:"var(--primary)"}} > Creative &amp; Passionate</h2>
           <p className="u-align-center u-text u-text-15"> Our creative team is globally present in different regions including Pakistan, Philippine, Saudi Arabia, Russia, Cyprus, and Europe. We believe in teamwork when it comes to creative works. We drag multiple ideas on one screen to discuss and deliver the best.</p>
         </div>
       </div>

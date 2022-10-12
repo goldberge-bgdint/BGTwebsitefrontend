@@ -9,6 +9,13 @@
   height: auto;
 }
 
+.imagehaeding{
+  font-size: 14px;
+  text-align: center;
+  padding-left: 10% !important;
+  color: var(--primary);
+}
+
 .u-section-1 .u-container-layout-1 {
   padding: 30px;
 }

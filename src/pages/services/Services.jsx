@@ -7,6 +7,10 @@ import Redbutton from "../../components/button/redbutton/redbutton";
 import "./servicespage.scoped.css";
 import "./nicepage.scoped.css";
 
+import Videopopup from "../../components/Popups/Videopopup/Videopopup";
+
+import { config } from "../../config";
+
 // importing components
 import iconb from "../../images/modern-play-button-1.png";
 
@@ -54,32 +58,28 @@ function Services() {
           <div className="u-clearfix u-sheet u-sheet-1">
             <h2      data-aos="fade-up"  className="u-text u-text-custom-color-1 u-text-1 ">
               {" "}
-              DIGITAL IDENTITY TRANSFORMATION SERVICES
+            <b>   DIGITAL IDENTITY TRANSFORMATION SERVICES </b>
             </h2>
             <p data-aos="fade-up" className="u-text u-text-2 ">
-              <span style={{ fontWeight: 700 }}>
-                <a     
-                  href="https://bgdint.com/"
-                  className="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1"
-                >
-                  Business GO Digital
-                </a>
-              </span>
+              
+               <b className="boldtextlink" >   Business GO Digital </b>
+             
+            
               &nbsp;is the best company when it comes to digital identity and
               branding. Our comprehensive range of services covers all the
               required areas a brand needs in the branding process. The process
-              starts with&nbsp;Research &amp; Analysis:&nbsp;Our challenge
+              starts with&nbsp; <b className="boldtextlink" > Research &amp; Analysis </b>:&nbsp;Our challenge
               beings with the brainstorming process – teams from all departments
               come together for a job to create something very innovative and
-              authentic. The second phase is&nbsp;Idea Development:&nbsp;The
+              authentic. The second phase is&nbsp; <b className="boldtextlink" >Idea Development</b>:&nbsp;The
               idea is everything to an entrepreneur but to us, the experience is
               what customer is having while interacting digitally or socially.
               It is a matter of seconds to win the customer before one clicks
-              away. Then it shifts to&nbsp;Launch &amp; Monitoring:&nbsp;Time is
+              away. Then it shifts to&nbsp; <b className="boldtextlink" >Launch &amp; Monitoring </b>:&nbsp;Time is
               everything with an introduction of 5G, and we are committed to
               delivering the project on time. We carefully calculate the time
               before making a promise and allocate resources accordingly. The
-              final stage is&nbsp;Followups &amp; Maintenance:&nbsp;We believe
+              final stage is&nbsp; <b className="boldtextlink" >Followups &amp; Maintenance</b>:&nbsp;We believe
               in long-term partnerships, and it is visible in our contracts.
               Digital Identity must be fresh always with changing time and
               trends. Our technical support and advisory are available as long
@@ -114,9 +114,9 @@ function Services() {
                         industries, including FMCG, manufacturing, service
                         industry, hospitality, education &amp; entertainment.
                       </p>
-                      <a
+                      <a style={{color:"var(--primary)"}} 
                         className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3"
-                        href="https://nicepage.com" 
+                        href={config+"/social-digital-media"} 
                       >
                         <br />
                         {" "}
@@ -142,12 +142,12 @@ function Services() {
                         commercials, documentary, Infographics and YouTube
                         channel management, contact our production-house team.
                       </p>
-                      <a
+                      <a style={{color:"var(--primary)"}} 
                         className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-4"
-                        href="https://nicepage.com"
+                        href={config+"/production-studio"} 
                       >
                         {" "}
-                        Read More about { ( window.screen.availWidth<860 )?  <br />:"" }  Brand Identity&nbsp;»
+                        Read More about { ( window.screen.availWidth<860 )?  <br />:"" }  Production Studio&nbsp;»
                       </a>
                     </div>
                   </div>
@@ -169,12 +169,12 @@ function Services() {
                         applications (IOS &amp; Android),&nbsp; software, ERP,
                         architectural designs, VR &amp; AR projects.
                       </p>
-                      <a
+                      <a  style={{color:"var(--primary)"}} 
                         className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-5"
                         href="https://nicepage.com"
                       >
                         {" "}
-                        Read More about { ( window.screen.availWidth<860 )?  <br />:"" }  Brand Identity&nbsp;»
+                        Read More about { ( window.screen.availWidth<860 )?  <br />:"" } Development Unit&nbsp;»
                       </a>
                     </div>
                   </div>
@@ -204,12 +204,12 @@ function Services() {
                         digital media planning, marketing, and management. We
                         also offer SEO &amp; influenced marketing services.
                       </p>
-                      <a
-                        className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-6"
-                        href="https://nicepage.com"
+                      <a   style={{color:"var(--primary)"}} 
+                        className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-7"
+                        href=""
                       >
                         {" "}
-                        Read More about { ( window.screen.availWidth<860 )?  <br />:"" }  Brand Identity&nbsp;»
+                        { ( window.screen.availWidth<860 )?  <br />:"" }  Social & Digital Media »&nbsp;
                       </a>
                     </div>
                   </div>
@@ -231,12 +231,12 @@ function Services() {
                         designers and developers to the companies all over the
                         world on a project or contract basis. Write to us
                       </p>
-                      <a
+                      <a   style={{color:"var(--primary)"}} 
                         className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-7"
-                        href="https://nicepage.com"
+                        href=""
                       >
                         {" "}
-                        Read More about { ( window.screen.availWidth<860 )?  <br />:"" }  Brand Identity&nbsp;»
+                        { ( window.screen.availWidth<860 )?  <br />:"" }  Hire Offshore Manpower »&nbsp;
                       </a>
                     </div>
                   </div>
@@ -258,12 +258,12 @@ function Services() {
                         solution of international standards, we have local
                         partner firms that are affordable and experienced.
                       </p>
-                      <a
+                      <a    style={{color:"var(--primary)"}} 
                         className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-8"
-                        href="https://nicepage.com"
+                        href=""
                       >
                         {" "}
-                        Read More about { ( window.screen.availWidth<860 )?  <br />:"" }  Brand Identity&nbsp;»
+                       { ( window.screen.availWidth<860 )?  <br />:"" } Order Printing & Packaging »&nbsp;
                       </a>
                     </div>
                   </div>
@@ -283,12 +283,9 @@ function Services() {
               {" "}
               So you’re ready to move your business to the cloud. Cloud adoption
               isn’t just about the migration. From&nbsp;
-              <a
-                href="https://bgdint.com/digital-branding-strategy/"
-                className="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-9"
-              >
-                business strategy
-              </a>
+             
+             <b className="boldtextlink" >business strategy</b>   
+          
               &nbsp;to process design, from infrastructure management to
               training and support for the people; Business GO Digital has all
               it takes to help you make your move to Adobe Experience Cloud and
@@ -301,7 +298,7 @@ function Services() {
               href="https://nicepage.com/wysiwyg-html-editor"
               className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-10"
             >
-              learn More
+              Learn More
             </a>
           </div>
         </section>
@@ -312,7 +309,7 @@ function Services() {
       {/*  */}
 
       <div   data-aos="zoom-in"  className="videosection">
-        <a   href="" className="videoclickicon">
+        <a style={{cursor: "pointer"}}  onClick={()=>{ document.getElementById("videopopupbutton").click() }} className="videoclickicon">
           {" "}
           <img data-aos="fade-up" style={{ height: "70px" }} src={iconb} alt="" />
         </a>
@@ -326,7 +323,7 @@ function Services() {
         <div   className="contactupper">
           <h4 data-aos="fade-up" >
             {" "}
-            <b> GET IN TOUCH </b>{" "}
+            <b className="u-text-custom-color-1" > GET IN TOUCH </b>{" "}
           </h4>
 
           <p data-aos="fade-up" >
@@ -349,7 +346,7 @@ function Services() {
           <div className="row">
             <div data-aos="fade-right" className="col-md-4 ">
               <h5>Phone</h5>
-              <p>+92 423 518 4499</p>
+              <p>+966 501 955 328</p>
 
               <h5 className="mt-5">Mobile</h5>
               <p>+1 609 385 1212</p>
@@ -358,14 +355,13 @@ function Services() {
               <p className="m-0 p-0">
                 {" "}
                 <b>
-                  Corporate Headquarters <br />
-                  BGD International (Pvt) Limited{" "}
+                Corporate Headquarters <br />  BGD International (Pvt) Limited <br />
                 </b>{" "}
               </p>
 
               <p className="mt-2">
-                112-D2 Wapda Town
-                <br /> Lahore 54770, Pakistan
+              Prince Muhammad Bin Salman Street,
+                <br /> Qurtubah, Riyadh 13248,Riyadh
               </p>
             </div>
 
@@ -421,6 +417,9 @@ function Services() {
           </div>
         </div>
       </div>
+
+
+      <Videopopup videolink="https://bgdint.com/wp-content/uploads/2021/05/BusinessGO.mp4" title="Watch Our New video" />
 
       {/*  */}
     </div>

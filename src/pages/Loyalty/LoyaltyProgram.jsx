@@ -95,9 +95,9 @@ function LoyaltyProgram() {
           </div>
         </div>
       </div>
-      <div className="u-container-style u-custom-color-2 u-expanded-width u-group u-group-3">
+      <div data-aos="fade-up" className="u-container-style u-custom-color-2 u-expanded-width u-group u-group-3">
         <div className="u-container-layout u-valign-middle u-container-layout-6">
-          <p data-aos="fade-up" className="u-text u-text-custom-color-1 u-text-default u-text-10"> Loyalty Program Features</p>
+          <p className="u-text u-text-custom-color-1 u-text-default u-text-10"> Loyalty Program Features</p>
         </div>
       </div>
       <div data-aos="fade-up" className="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-2">

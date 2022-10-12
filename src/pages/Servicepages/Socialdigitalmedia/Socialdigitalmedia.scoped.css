@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1850px;
+  min-height: 1028px;
 }
 
 .u-section-1 .u-group-1 {
@@ -55,9 +55,14 @@
 }
 
 .u-section-1 .u-btn-1 {
+  background-color: var(--primary) !important;
   border-style: none;
   margin: 18px auto 0 0;
   padding: 5px 14px 6px 13px;
+}
+
+.u-section-1 .u-container-layout-7{
+      background-color: var(--primary) !important;
 }
 
 .u-section-1 .u-layout-cell-2 {

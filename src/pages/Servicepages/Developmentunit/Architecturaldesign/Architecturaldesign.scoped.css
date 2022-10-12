@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 2631px;
+  min-height: 2285px;
 }
 
 .u-section-1 .u-group-1 {
@@ -7,6 +7,16 @@
   margin-top: 37px;
   margin-bottom: 0;
   height: auto;
+}
+
+#shehryar > img{
+  margin-left: 15%;
+}
+
+
+#shehryar > p{
+  width: 79%;
+  margin-left: 15%;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -42,7 +52,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  height: 130px;
+  height: 186px;
   margin: 15px 5px 0;
 }
 
@@ -65,7 +75,7 @@
 }
 
 .u-section-1 .u-image-2 {
-  height: 130px;
+  height: 186px;
   margin-top: 15px;
   margin-bottom: 0;
   margin-left: 0;
@@ -90,12 +100,15 @@
 }
 
 .u-section-1 .u-image-3 {
-  height: 130px;
+  height: 186px;
   margin-top: 15px;
   margin-bottom: 0;
   margin-left: 0;
 }
 
+.architecute_pictures img{
+  height: 240px;
+}
 .u-section-1 .u-text-8 {
   margin: 24px 0 0;
 }
@@ -115,7 +128,7 @@
 }
 
 .u-section-1 .u-image-4 {
-  height: 130px;
+  height: 186px;
   margin-top: 15px;
   margin-bottom: 0;
   margin-left: 0;
@@ -438,6 +451,40 @@
 
   .blendedslider {
     padding-top: 20%;
+  }
+
+  #shehryar > img {
+    margin-left: 0px;
+    height: 266px !important;
+  }
+
+  #shehryar > p {
+    width: 99%;
+    margin-left: 0%;
+  }
+
+  .architecute_pictures img {
+    height: 225px;
+  }
+  
+}
+
+
+@media (max-width:860px) and (min-width:680px) 
+{
+
+  #shehryar > img {
+    margin-left: 15%;
+    height: 199px;
+  }
+
+  #shehryar > p {
+    width: 76%;
+    margin-left: 15%;
+  }
+
+  .architecute_pictures img {
+    height: 151px;
   }
   
 }

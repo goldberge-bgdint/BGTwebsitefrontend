@@ -3,34 +3,39 @@ import "./Spantanic.scss"
 import "./css/style.css"
 import iconb from "../../images/modern-play-button-1.png"
 
+
 // Importing AOS animations
 import AOS from 'aos';
 import "aos/dist/aos.css";
 
 function Spantanic() {
 
+
     useEffect(() => {
+
         AOS.init({
           duration : 1000
-        });
-      }, []);
+        }); 
+
+    }, []);
+    
 
   return (
     <div>
 
         <div className="spantanicbanner">
 
-         <h5>SPANTANIC</h5>  
+         <h5 data-aos="fade-up" className="spantiktext" >SPANTIK</h5>  
 
         </div>
 
         <div className="spantacniclower">
 
-        <p data-aos="fade-up" > <span className='bluelinktag' > Branding </span>  is a very fascinating word in businesses and everyone would love to have it. Large firms can afford the resources and can bring talent to the table to build a brand. The SMEs face the true challenge and particularly the start-ups. <br /> <br />
+        <p data-aos="fade-up" > <b className="boldtextlink" >  Branding </b>  is a very fascinating word in businesses and everyone would love to have it. Large firms can afford the resources and can bring talent to the table to build a brand. The SMEs face the true challenge and particularly the start-ups. <br /> <br />
 
-        Undoubtedly, branding is also costly. Instead of having no <a className='bluelinktaga' href=""> branding strategy </a> at all, you can learn the SPANTIK model, understand its seven steps, and can adapt it on your own with no cost at all. You might not be a full-time <a className='bluelinktaga' href="">brand manager</a> , but you can identify if there is something working happening to the brand. You can have a core idea of branding and can be conscious during formulating a strategy, choosing a media, allocating the budget, and training your staff. <br /> <br />
+        Undoubtedly, branding is also costly. Instead of having no <b className="boldtextlink" >  branding strategy </b>  at all, you can learn the SPANTIK model, understand its seven steps, and can adapt it on your own with no cost at all. You might not be a full-time <b className="boldtextlink" >  brand manager </b> , but you can identify if there is something working happening to the brand. You can have a core idea of branding and can be conscious during formulating a strategy, choosing a media, allocating the budget, and training your staff. <br /> <br />
 
-        The model is very simple to learn and practical to implement. It is also fully aligned with the <a className='bluelinktaga' href="">marketing planning</a>  process as well. Of course, it will be a great tool for marketers and brand managers at the same time to manage brand performance.</p>
+        The model is very simple to learn and practical to implement. It is also fully aligned with the <b className="boldtextlink" >  marketing planning </b>  process as well. Of course, it will be a great tool for marketers and brand managers at the same time to manage brand performance.</p>
 
        
 

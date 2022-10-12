@@ -42,7 +42,7 @@ function Brandidentity() {
             <div className="u-container-layout u-valign-top u-container-layout-2">
               <img className="u-image u-image-default u-image-1" src="images/737x960.jpg" alt data-image-width={737} data-image-height={960} />
               <p className="u-text u-text-3">
-                <span style={{fontWeight: 700, fontSize: '1.25rem'}}> Creative Communication</span>
+                <span  style={{fontWeight: 700, fontSize: '1.25rem', color:"var(--primary)" }}> Creative Communication</span>
                 <br />Creative communication, creating a better understanding of the message. Our art is bringing the ideas into shape to aware &amp; inspire the audiences and customers.
               </p>
               <p className="u-text u-text-custom-color-1 u-text-4">
@@ -64,13 +64,13 @@ function Brandidentity() {
           </div>
           <div data-aos="fade-left" className="u-container-style u-layout-cell u-size-20 u-layout-cell-3">
             <div className="u-container-layout u-container-layout-5">
-              <img className="u-image u-image-default u-image-2" src="images/737x960.jpg" alt data-image-width={737} data-image-height={960} />
+              <img className="u-image u-image-default u-image-2" src="backgrounds/pexels-cottonbro-4829075-e1602701800997.jpg" alt data-image-width={737} data-image-height={960} />
               <p className="u-text u-text-7">
-                <span style={{fontWeight: 700, fontSize: '1.25rem'}}> Creative Communication</span>
-                <br />Creative communication, creating a better understanding of the message. Our art is bringing the ideas into shape to aware &amp; inspire the audiences and customers.
+                <span style={{fontWeight: 700, fontSize: '1.25rem',color:"var(--primary)"  }}>Brand Promotion</span>
+                <br />How do customers see your brand? It’s important to examine your branding tactics occasionally. What truly important is how your customers see your brand?
               </p>
               <p className="u-text u-text-custom-color-1 u-text-8">
-                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" href="http://bgdint.com/creative-communication/" target="_blank"> Learn more about Creative Communication&nbsp;»</a>
+                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" href="http://bgdint.com/creative-communication" target="_blank"> Learn more about Brand Promotion&nbsp;»</a>
               </p>
             </div>
           </div>
@@ -84,11 +84,13 @@ function Brandidentity() {
             <div className="u-container-layout u-valign-top u-container-layout-6">
               <img className="u-image u-image-default u-image-3" src="images/pexels-erik-mclean-4062289-e1602702146700.jpg" alt data-image-width={739} data-image-height={960} />
               <p className="u-text u-text-9">
-                <span style={{fontWeight: 700, fontSize: '1.25rem'}}> Creative Communication</span>
-                <br />Creative communication, creating a better understanding of the message. Our art is bringing the ideas into shape to aware &amp; inspire the audiences and customers.
+                <span style={{fontWeight: 700, fontSize: '1.25rem' ,color:"var(--primary)" }}> 	
+                Packaging Identity</span>
+                <br />Packaging Identity is the visible elements of a brand, associated with logo or Wordmark, colors, typographic treatment, images, and content. It is important
               </p>
               <p className="u-text u-text-custom-color-1 u-text-10">
-                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" href="http://bgdint.com/creative-communication/" target="_blank"> Learn more about Creative Communication&nbsp;»</a>
+                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" href="http://bgdint.com/brand-promotion" target="_blank"> Learn more about 	
+Packaging Identity&nbsp;»</a>
               </p>
             </div>
           </div>
@@ -96,11 +98,13 @@ function Brandidentity() {
             <div className="u-container-layout u-valign-middle u-container-layout-7">
               <img className="u-image u-image-default u-image-4" src="images/pexels-bran-sodre-2519764-e1602700018420.jpg" alt data-image-width={739} data-image-height={414} />
               <p className="u-text u-text-11">
-                <span style={{fontWeight: 700, fontSize: '1.25rem'}}> Creative Communication</span>
-                <br />Creative communication, creating a better understanding of the message. Our art is bringing the ideas into shape to aware &amp; inspire the audiences and customers.
+                <span style={{fontWeight: 700, fontSize: '1.25rem' ,color:"var(--primary)" }}> 	
+Partnering in Digital Brand Building</span>
+                <br />TheSpantik is our associate firm for branding and brand building. If you are a large or medium size firm, and you are serious about Branding. You may click on the button below to visit their website.
               </p>
               <p className="u-text u-text-custom-color-1 u-text-12">
-                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-4" href="http://bgdint.com/creative-communication/" target="_blank"> Learn more about Creative Communication&nbsp;»</a>
+                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-4" href="http://bgdint.com/packaging-design" target="_blank"> 
+Click to visit TheSpantik »&nbsp;»</a>
               </p>
             </div>
           </div>
@@ -108,11 +112,12 @@ function Brandidentity() {
             <div className="u-container-layout u-container-layout-8">
               <img className="u-expanded-width u-image u-image-default u-image-5" src="images/content-marketing-4111003_1920-e1602702404866.jpg" alt data-image-width={737} data-image-height={960} />
               <p className="u-text u-text-13">
-                <span style={{fontWeight: 700, fontSize: '1.25rem'}}> Creative Communication</span>
-                <br />Creative communication, creating a better understanding of the message. Our art is bringing the ideas into shape to aware &amp; inspire the audiences and customers.
+                <span style={{fontWeight: 700, fontSize: '1.25rem' ,color:"var(--primary)"  }}> Content Writing</span>
+                <br />We understand how to create content that attracts readers’ & customers’ attention. All brands want to get found, read, and grow within no period of time.
               </p>
               <p className="u-text u-text-custom-color-1 u-text-14">
-                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-5" href="http://bgdint.com/creative-communication/" target="_blank"> Learn more about Creative Communication&nbsp;»</a>
+                <a className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-5" href="http://bgdint.com/content-writing" target="_blank"> 
+Explore Content Writing »&nbsp;»</a>
               </p>
             </div>
           </div>

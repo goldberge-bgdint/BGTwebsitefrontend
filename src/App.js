@@ -7,11 +7,10 @@ import Aboutbody from "./pages/Aboutus/Aboutbody";
 
 // Company pages
 import Careers from "./pages/careers/Careers";
-import Gallary from "./pages/Gallary/Gallary";
 import Casestudy from "./pages/Casestudy/Casestudy";
 import ContactUS from "./pages/ContactUS/ContactUS";
 import Company from "./pages/Company/Company";
-import Partners from "./pages/partners/partners";
+
 
 
 // ---------------- > Strategy Pages
@@ -19,6 +18,7 @@ import Strategy from "./pages/strategy/Strategy";
 
 import LoyaltyProgram from "./pages/Loyalty/LoyaltyProgram";
 import Spantanic from "./pages/Spantanic/Spantanic";
+import Politicalmarketing from "./pages/Politicalmarketing/Politicalmarketing";
 
 
 // // ---------------- > Services Pages
@@ -45,7 +45,7 @@ import Developmentunit from "./pages/Servicepages/Developmentunit/Developmentuni
 
 import Websitedevelopment from "./pages/Servicepages/Developmentunit/Websitedevelopment/Websitedevelopment";
 import Appdevelopment from "./pages/Servicepages/Developmentunit/Appdevelopment/Appdevelopment";
-import Architecturaldesign from "./pages/Servicepages/Developmentunit/Architecturaldesign/Architecturaldesign";
+import Architecturaldesign from "./pages/Servicepages/Developmentunit/Architecturaldesign/Architecturaldesign"
 import Softwaredevelopment from "./pages/Servicepages/Developmentunit/Softwaredevelopment/Softwaredevelopment";
 
 // Social Media Management
@@ -74,7 +74,7 @@ import Packagingsolutions from "./pages/Servicepages/Printingpackaging/Packaging
 import Businessproducts from "./pages/Servicepages/Printingpackaging/BUSINESSPRODUCTS/Businessproducts";
 import Promotionalproducts from "./pages/Servicepages/Printingpackaging/Promotionalproducts/Promotionalproducts";
 
-import React from "react";
+import React ,{useEffect} from "react";
 import {
   BrowserRouter as Router,
   Route,
@@ -84,11 +84,13 @@ import {
 
 import "./app.scss"
 
-
 function App() {
 
+ 
+
+
   return (
-    <div className="websitebody" >
+    <div className="websitebody" id="websitescroll" >
     
     <Router>
 
@@ -105,13 +107,13 @@ function App() {
 <Route path="/blendedlearning" element={<Careers/>} />
 <Route path="/aboutus" element={<Aboutbody/>} />
 <Route path="/careers" element={<Careers/>} />
-<Route path="/gallary" element={<Gallary/>} />
 <Route path="/casestudy" element={<Casestudy/>} />
 <Route path="/contactus" element={<ContactUS/>} />
 <Route path="/loyatyprogram" element={<LoyaltyProgram/>} />
 <Route path="/spantanic" element={<Spantanic/>} />
 <Route path="/company" element={<Company/>} />
-<Route path="/partners" element={<Partners/>} />
+<Route path="/politicalmarketing" element={<Politicalmarketing/>} />
+
 
 {/* Serives pages */}
 

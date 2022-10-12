@@ -114,7 +114,7 @@ function Header() {
                 </li>
 
                   {/* Child Sub menue */}
-                  <li className='parentmenuelink' >  <span className='parentmenuelinktag' ><Link className='childsubmenutohover' to="/social-digital-media" style={{color:"Black"}} > Social Media Media <MdKeyboardArrowRight/> </Link> </span>
+                  <li className='parentmenuelink' >  <span className='parentmenuelinktag' ><Link className='childsubmenutohover' to="/social-digital-media" style={{color:"Black"}} > Social Digital Media <MdKeyboardArrowRight/> </Link> </span>
                  {/* Child Sub menue Links */}
                 <ul className='Childsubmenue' id='SDMmenue'>
                   <li className='childmenuelinks'> <Link  className='childsubmenutohover'  style={{color:"black"}} to = "/digital-media-planning" > Digital Media Planning </Link>  </li>
@@ -169,8 +169,9 @@ function Header() {
           <a className='menuelink' href="/strategy">  <Link className='submenuelinkstyle' id='selectedmenue'  to="/strategy"> STRATEGY <MdKeyboardArrowDown/> </Link> </a>
 
           <ul className='submenue'>
-            <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/spantanic"> Spantanic </Link>  </li>
+            <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/spantanic"> SPANTIK </Link>  </li>
             <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/loyatyprogram"> Loyalty Program </Link>  </li>       
+            <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/politicalmarketing"> Political Marketing </Link>  </li>       
           </ul>
 
       </li> <div className="menuedivider">
@@ -183,9 +184,7 @@ function Header() {
           <a className='menuelink'id='selectedmenue' >  <Link className='submenuelinkstyle'  to="/company" >COMPANY</Link>  <MdKeyboardArrowDown/> </a>
           <ul className='submenue'>
             <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/aboutus" >About us</Link>  </li>
-            <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/partners" >Partners</Link>  </li>
             <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/careers" >Careers</Link>   </li>
-            <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/gallary" >Gallery</Link>   </li>
             <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/casestudy" >Case Study</Link>   </li>
             <li className='submenuelink' >  <Link className='submenuelinkstyle'  to="/contactus" >Contact Us</Link>   </li>
           
@@ -355,7 +354,7 @@ function Header() {
   
                             <ul id='collpased_mainmenue_submenue_STRATEGYU' className='collpased_mainmenue_submenue_sublist collapse' > 
                           
-                              <li className='collpased_mainmenue_submenue_sublist_item' > <Link id="linktag_items"  to="/spantanic"> Spantanic </Link>  </li>
+                              <li className='collpased_mainmenue_submenue_sublist_item' > <Link id="linktag_items"  to="/spantanic"> SPANTIK </Link>  </li>
                               <li className='collpased_mainmenue_submenue_sublist_item' style={{border:"none"}}> <Link id="linktag_items"  to="/loyatyprogram"> Loyalty Program </Link> </li>
   
                             </ul>
@@ -373,8 +372,6 @@ function Header() {
                             <ul id='collpased_mainmenue_submenue_COMPANYY' className='collpased_mainmenue_submenue_sublist collapse' > 
                           
                               <li className='collpased_mainmenue_submenue_sublist_item' > <Link id="linktag_items"  to="/aboutus" >About us</Link> </li>
-                              <li className='collpased_mainmenue_submenue_sublist_item' > <Link id="linktag_items"  to="/partners" >Partners</Link> </li>
-                              <li className='collpased_mainmenue_submenue_sublist_item' > <Link id="linktag_items"  to="/careers" >Careers</Link> </li>
                               <li className='collpased_mainmenue_submenue_sublist_item' > <Link id="linktag_items"  to="/gallary" >Gallery</Link>  </li>
                               <li className='collpased_mainmenue_submenue_sublist_item' > <Link id="linktag_items"  to="/casestudy" >Case Study</Link> </li>
                               <li className='collpased_mainmenue_submenue_sublist_item' style={{border:"none"}}> <Link id="linktag_items"  to="/contactus" >Contact Us</Link> </li>

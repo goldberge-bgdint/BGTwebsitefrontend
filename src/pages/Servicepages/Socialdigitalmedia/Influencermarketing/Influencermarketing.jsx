@@ -81,7 +81,7 @@ function Influencermarketing() {
           </div>
           <div data-aos="fade-left" className="u-align-center u-container-style u-layout-cell u-size-15 u-layout-cell-6">
             <div className="u-container-layout u-container-layout-7">
-              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-7" src="images/thumbs-up.png" alt data-image-width={128} data-image-height={128} />
+              <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-7" src="images/speedometer.png" alt data-image-width={128} data-image-height={128} />
               <h4 className="u-text u-text-custom-color-1 u-text-default u-text-11"> Measure Influencer Marketing</h4>
             </div>
           </div>

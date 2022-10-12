@@ -2,10 +2,17 @@
     background: url("../../../public/images/mountains-scaled.jpg");
     background-position: -24px -65px;
     padding-top: 5%;
-    height: 494px !important;
+    height: 703px !important;
     text-align: center;
     font-size: 151px;
 }
+
+// .spantanicbanner h5{
+//     padding-top: 3%;
+//     FONT-SIZE: 160px;
+//     color: black;
+//     font-weight: 900;
+// }
 
 .spantacniclower{
     width: 70%;
@@ -17,6 +24,20 @@
 }
 .bluelinktaga, .bluelinktaga:hover{
     color: var(--primary);
+}
+
+.timeline-item:not(.period):hover .timeline-marker:before {
+    background: transparent;
+    border: 3px solid  var(--primary) !important;
+}
+
+.timeline-marker:before {
+    background: var(--primary) !important;
+}
+
+.timeline-title{
+    font-size: 18px;
+    font-weight: 600;
 }
 
 #timelinediv{
@@ -62,3 +83,31 @@
     }
     
 }
+
+
+.spantiktext {
+  background: 50% 100% / 50% 50% no-repeat
+              radial-gradient(ellipse at bottom, rgb(0, 0, 0), transparent, transparent);
+              -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  padding-top: 3%;
+  FONT-SIZE: 160px;
+  font-weight: 900;
+  animation: reveal 3000ms ease-in-out forwards 200ms,
+             glow 2500ms linear infinite 2000ms;
+
+  @keyframes reveal {
+    80%{
+      letter-spacing: 8px;
+    }
+    100% {
+      background-size: 300% 300%;
+    }
+  }
+  @keyframes glow {
+    40% {
+      text-shadow: 0 0 8px rgb(59, 59, 59);
+    }
+  }
+}  

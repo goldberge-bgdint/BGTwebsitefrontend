@@ -43,24 +43,28 @@ function Productionstudio() {
           
           <div  data-aos="fade-right" className="u-container-style u-layout-cell u-size-15 u-layout-cell-1">
             <div className="u-container-layout u-container-layout-2">
+              <h4 className="imagehaeding" >2D/3D Animation Modeling</h4>
               <img className="u-image u-image-round u-radius-10 u-image-1" src="images/super-woman-1885016_1920-1024x576.jpg" alt data-image-width={1024} data-image-height={576} />
             </div>
           </div>
 
           <div data-aos="fade-up"  className="u-container-style u-layout-cell u-size-15 u-layout-cell-1">
             <div className="u-container-layout u-container-layout-2">
+                <h4 className="imagehaeding" >TV Commercial Documentary</h4>
               <img className="u-image u-image-round u-radius-10 u-image-1" src="images/pexels-donald-tong-66134.jpg" alt data-image-width={1024} data-image-height={576} />
             </div>
           </div>
 
           <div data-aos="fade-up"  className="u-container-style u-layout-cell u-size-15 u-layout-cell-1">
             <div className="u-container-layout u-container-layout-2">
+                <h4 className="imagehaeding" >Infographics ( Information Graphics )</h4>
               <img className="u-image u-image-round u-radius-10 u-image-1" src="images/futurology-flat-infographic-poster-vector-19961420-1-e1602864533839.jpg" alt data-image-width={1024} data-image-height={576} />
             </div>
           </div>
 
           <div data-aos="fade-left"  className="u-container-style u-layout-cell u-size-15 u-layout-cell-1">
             <div className="u-container-layout u-container-layout-2">
+                <h4 className="imagehaeding" >YouTube Channel Management</h4>
               <img className="u-image u-image-round u-radius-10 u-image-1" src="images/smartphone-2758475_1920-1024x768.jpg" alt data-image-width={1024} data-image-height={576} />
             </div>
           </div>
@@ -93,7 +97,7 @@ function Productionstudio() {
                 <br />
                 <span className="u-text-black">If you are thinking to bring a fresh perspective to your brand and willing to create a world with no boundaries, we help you to grab attention and engage your customers. It’s a more entertaining way to make complex ideas more interesting and appealing. You may choose from diverse styles, likable characters, and different formats of media.</span>
               </p>
-              <p className="u-text u-text-custom-color-1 u-text-default u-text-7"> Learn about Story Telling&nbsp;»</p>
+              <p className="u-text u-text-custom-color-1 u-text-default u-text-7"> Learn about Production Studio&nbsp;»</p>
             </div>
           </div>
         </div>

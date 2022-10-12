@@ -24,12 +24,12 @@ function Careers() {
   let careerservicecards =[ 
 
     { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/B612_20201020_112950_151.jpg" , name:"Muhammad Aziz" ,  designation:"Marketing Executive" },
-    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/B612_20201020_112950_151.jpg" , name:"Muhammad Aziz" ,  designation:"Marketing Executive" },
-    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/B612_20201020_112950_151.jpg" , name:"Muhammad Aziz" ,  designation:"Marketing Executive" },
-    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/B612_20201020_112950_151.jpg" , name:"Muhammad Aziz" ,  designation:"Marketing Executive" },
-    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/B612_20201020_112950_151.jpg" , name:"Muhammad Aziz" ,  designation:"Marketing Executive" },
-    
-
+    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/01.jpg" , name:"Adem Ryder" ,  designation:"Team Lead" },
+    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/Sir-Harris-Shabbir-2-2.jpg" , name:"Harry William" ,  designation:"Senior Software Developer" },
+    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/09.png" , name:"Paul Walker" ,  designation:"Programmer / Developer" },
+    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/kami.jpg" , name:"Kami Haid" ,  designation:"Programmer / Developer" },
+    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/Sir-Haris-1.jpg" , name:"Karter Bryan" ,  designation:"Graphic Designer" },
+    { imagepath:"https://bgdint.com/wp-content/uploads/2020/10/Miss-Hina.jpg" , name:"Hina Shahzadi" ,  designation:"Assist. Manager Accounts" },
   ]
 
   let careerjobs = [
