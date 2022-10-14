@@ -9,6 +9,11 @@
   height: auto;
 }
 
+#brandidentityimage {
+  margin-top: -0.4% !important;
+  height: 756px !important ;
+}
+
 .u-section-1 .u-text-16{
   width: 481px;
 }

@@ -80,7 +80,8 @@
 
 .u-section-1 .u-text-5 {
   font-weight: 700;
-  margin: 1px auto 0 1px;
+  margin: 1px auto 1px;
+  color: var(--primary);
 }
 
 .u-section-1 .u-image-2 {
@@ -103,7 +104,8 @@
 
 .u-section-1 .u-text-7 {
   font-weight: 700;
-  margin: 0 auto 0 3px;
+  margin: 0 auto 3px;
+  color: var(--primary);
 }
 
 .u-section-1 .u-image-3 {
@@ -125,7 +127,8 @@
 
 .u-section-1 .u-text-9 {
   font-weight: 700;
-  margin: 0 auto 0 1px;
+  margin: 0 auto 1px;
+  color: var(--primary);
 }
 
 .u-section-1 .u-image-4 {

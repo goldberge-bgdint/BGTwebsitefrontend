@@ -1,12 +1,20 @@
-import React, {useEffect} from "react";
+import React, {useEffect, useState} from "react";
 import "./Printingpackages.scoped.css"
 import "./nicepage.scoped.css"
+
+import 'animate.css';
 
 // Importing AOS animations
 import AOS from 'aos';
 import "aos/dist/aos.css";
 
 function Printingpackaging() {
+
+  let [icon1,seticon1] = useState("")
+  let [icon2,seticon2] = useState("")
+  let [icon3,seticon3] = useState("")
+  let [icon4,seticon4] = useState("")
+  let [insidetext,setinsidetext] = useState("")
 
   useEffect(() => {
     AOS.init({
@@ -30,7 +38,34 @@ function Printingpackaging() {
       <div className="u-container-style u-grey-80 u-group u-group-3">
         <div className="u-container-layout u-container-layout-3">
           <div className="u-container-style u-grey-5 u-group u-group-4">
-            <div className="u-container-layout u-container-layout-4" />
+          
+            <div className="animatediv w-100">
+              
+              <h4 className="text-center" > 
+                  <b>
+                  Printing & Packaging Model
+                  </b>
+              </h4>
+
+              <div className="animationsection">
+
+                <div className="outercircle">
+                  <div className="innercirclle">
+                    <p className="insidetext" >{insidetext}</p>
+                  </div>
+                </div>
+
+                <div className="animatedicons">
+                  <div onMouseEnter={()=>{ seticon1("") ; setinsidetext(`Research & Analysis Market & Competitors Analysis`) }} className={icon1} > <img className="icon1" src="Banner/image_2022_10_14T05_44_55_633Z.png" alt="" /> </div>
+                  <div onMouseEnter={()=>{ seticon2("") ; setinsidetext(`Concept & Design Share your design, or we design for you`) }} className={icon2} > <img className="icon3" src="Banner/image_2022_10_14T05_46_28_649Z.png" alt="" /> </div>
+                  <div onMouseEnter={()=>{ seticon3("") ; setinsidetext(`Shipping & Delivery Anywhere in the world we deliver`) }} className={icon3} > <img className="icon4" src="Banner/image_2022_10_14T05_46_51_912Z.png" alt="" /> </div>
+                  <div onMouseEnter={()=>{ seticon4("") ; setinsidetext(`Printing & Packaging promotional printing & packaging solutions`) }} className={icon4} > <img className="icon2" src="Banner/image_2022_10_14T05_45_41_324Z.png" alt="" /> </div>
+                </div>
+                
+              </div>
+
+            </div>
+
           </div>
         </div>
       </div>

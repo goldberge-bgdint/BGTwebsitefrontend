@@ -42,7 +42,7 @@ function Softwaredevelopment() {
           <div data-aos="fade-right"  className="u-container-style u-layout-cell u-size-20 u-layout-cell-1">
             <div className="u-container-layout u-container-layout-2">
               <p className="u-text u-text-default u-text-3">
-                <span style={{fontWeight: 700}}> Enterprise Resource Planning</span>
+                <span  style={{fontWeight: 700, color:"var(--primary)"}}> Enterprise Resource Planning</span>
                 <br />
                 <br />Enterprise Resource Planning systems (ERP) are software systems that show excellent coordination in various departments of an organization, including Financials, CRM, Operations, Administration, Business Processes, Manufacturing, Supply Chain, HR, and Inventory Management. It offers 24/7 real-time visibility, saves up to 70% of the time, and 85% of IT costs associated with managing multiple software and applications.
               </p>
@@ -57,7 +57,7 @@ function Softwaredevelopment() {
             <div className="u-container-layout u-container-layout-4">
               <p className="u-text u-text-4">
                 <span style={{fontWeight: 700}} />
-                <span style={{fontWeight: 700}}>Less Me, More Us</span>
+                <span style={{fontWeight: 700 , color:"var(--primary)"}}>Less Me, More Us</span>
                 <br />
                 <br />The coordination among the creative, development, implementation, and QC departments is our strength because we believe in Teamwork. Teamwork encourages creativity and brings developers to come together and share their knowledge and ideas. It improves their current skill set, and advance the overall team performance. Knowledge sharing is a massive advantage in organizations today and drives ownership of their work by taking full accountability. It also encourages feedback sharing to improve processes and quality of work. It is a more efficient way in the success of achieving goals.
               </p>
@@ -96,7 +96,7 @@ function Softwaredevelopment() {
     <div className="u-container-style u-expanded-width u-group u-group-2">
       <div data-aos="fade-up" className="u-container-layout u-container-layout-8">
         <p className="u-text u-text-default u-text-11">
-          <span style={{fontWeight: 700, fontSize: '1.125rem'}}> Reliable Delivery Model</span>
+          <span style={{fontWeight: 700, fontSize: '1.125rem',color:"var(--primary)"}}> Reliable Delivery Model</span>
           <br />
           <br />Information analysis, modules selection, SRS preparation &amp; verifications, prototype &amp; approval, development &amp; testing, delivery &amp; maintenance. Feel confident to write to us for a corporate meeting, we will identify your business needs and will share with you the proposal accordingly.
         </p>

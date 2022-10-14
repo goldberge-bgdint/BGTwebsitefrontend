@@ -147,7 +147,8 @@
 
 .u-section-1 .u-text-11 {
   font-size: 1.125rem;
-  margin: 1px auto 0 0;
+  margin: 1px auto 0;
+  color: var(--primary);
 }
 
 .u-section-1 .u-image-5 {
@@ -170,7 +171,8 @@
 
 .u-section-1 .u-text-13 {
   font-size: 1.125rem;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0;
+  color: var(--primary);
 }
 
 .u-section-1 .u-image-6 {

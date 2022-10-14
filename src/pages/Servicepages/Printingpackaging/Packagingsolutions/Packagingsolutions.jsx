@@ -20,9 +20,9 @@ function Packagingsolutions() {
     <div>
 
         <div className='blendedslider text-center '>
-                <h5 data-aos="fade-up"> Gallery </h5>
+                <h5 data-aos="fade-up"> PACKAGING SOLUTIONS </h5>
                 <div className="blendedsliderdivider"></div>
-                <span data-aos="fade-up" className='blendedsliderlink' > You are here: <a href="/home">  <Link to="/home" >home</Link> </a> {`>>`} Gallery </span>
+                <span data-aos="fade-up" className='blendedsliderlink' > You are here: <a href="/home">  <Link to="/home" >home</Link> </a> {`>>`} PACKAGING SOLUTIONS </span>
         </div>  
 
         <div className="packingsolutionsower u-body u-xl-mode">

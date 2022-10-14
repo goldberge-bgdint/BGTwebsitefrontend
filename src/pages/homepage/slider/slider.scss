@@ -98,3 +98,29 @@
 .slidercoloredtext{
     color: var(--primary);
 }
+
+
+@media (max-width:680px) {
+
+    .textanimation{
+    left: 21px;
+    position: absolute;
+    top: 190px;
+    height: 128px;
+    }
+    
+}
+
+@media (max-width:860px) and (min-width:680px) {
+
+    .textanimation{
+        left: 95px;
+        position: absolute;
+        top: 166px;
+        height: 179px;
+    }
+    
+}
+
+
+

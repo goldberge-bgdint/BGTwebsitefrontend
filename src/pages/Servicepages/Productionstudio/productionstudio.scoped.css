@@ -9,6 +9,11 @@
   height: auto;
 }
 
+#headerimage{
+  height: 760px !important;
+  margin-top: -0.4% !important;
+}
+
 .imagehaeding{
   font-size: 14px;
   text-align: center;
